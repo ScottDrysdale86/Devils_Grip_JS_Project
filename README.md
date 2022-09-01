@@ -1,6 +1,6 @@
 # Devil's Grip
 
-The app allows the user to .....
+The app allows the user to play the solitaire based card game called Devil's Grip.
 
 ## Built With
 
