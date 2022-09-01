@@ -20,7 +20,7 @@ npm i
 
 Then run the following command to launch the client side...
 ```bash
-npm run
+npm start
 ```
 
 To run the server side...
